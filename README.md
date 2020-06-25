@@ -1,0 +1,2 @@
+# Patient-readmission-in-hospital-analysis-with-the-help-of-DBMS-SQL-and-ML-algorithms
+In this project first I have conducted a survey and with the help of data in that survey i have created a database and then performed various SQL queries on that data to get the major reason which is responsible for patient readmission in hospital. Then with the help of various ML algorithms i have found the efficiency and accuracy of our result.
